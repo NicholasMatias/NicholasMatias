@@ -11,12 +11,25 @@
 <p>I am a rising sophomore at Texas A&M University, pursuing a Bachelor of Science in computer science. I love all things programming related and I am constantly trying to expand my knowledge. Additionally, I am a self-motivated learner looking to grow whether that be in a collaborative environment or solo. Lastly, I aspire to be a software engineer that makes a positive impact on the world through innovative solutions.</p>
 
 
-<a href="https://github.com/NicholasMatias" target="_blank" title="Nicholas Matias' GitHub" rel="noreferrer noopener"><i class="fa-brands fa-github" ></i></a>
-<a href="https://www.instagram.com/nicholasrmatias" target="_blank" title="Nicholas Matias' Instagram" rel="noreferrer noopener"><i class="fa-brands fa-instagram"></i></a>
-                        
+<h2>Languages:</h2>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="left" alt="Java" width ="30px" style ="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Java" width ="30px" style ="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="Java" width ="30px" style ="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+<img align="left" alt="Java" width ="30px" style ="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+             
+          
+
+<br>
 
 
----
+
+
+
+<br>
+
 
 ### <h1 align = "left">:fire: My Stats:</h1>
 <div align="left">
