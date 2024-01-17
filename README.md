@@ -1,18 +1,21 @@
-### <h1 align = "center">Hi, I am Nicholas Matias👋</h1>
-<h2 align = "center">Aspiring Software Engineer</h2>
+### <h1 align = "left">Hi, I am Nicholas Matias👋</h1>
+<h2 align = "left">Aspiring Software Engineer</h2>
 
-<div align = "center">
+<script src="https://kit.fontawesome.com/3775ce8ebb.js" crossorigin="anonymous"></script>
 
-[![Website](https://img.shields.io/badge/-Website-green?style=for-the-badge&logo=Vercel&logoColor=white)](https://nicholasmatias.com/)
-[![Mail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:n-r-matias@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nicholasmatias/)
+<div align = "left">
+
+<a href="https://www.linkedin.com/in/nicholasmatias" target="_blank" title="Nicholas Matias' LinkedIn" rel="noreferrer noopener"><i class="fa-brands fa-linkedin"></i></a>
+<a href="https://github.com/NicholasMatias" target="_blank" title="Nicholas Matias' GitHub" rel="noreferrer noopener"><i class="fa-brands fa-github" ></i></a>
+<a href="https://www.instagram.com/nicholasrmatias" target="_blank" title="Nicholas Matias' Instagram" rel="noreferrer noopener"><i class="fa-brands fa-instagram"></i></a>
+                        
 
 </div>
 
 
 ---
 
-### :fire: My Stats :
+### <h1 align = "left">:fire: My Stats :</h1>
 <div align="left">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=NicholasMatias&theme=highcontrast)](https://git.io/streak-stats)
