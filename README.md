@@ -1,16 +1,14 @@
 ### <h1 align = "left">Hi, I am Nicholas Matias👋</h1>
 <h2 align = "left">Aspiring Software Engineer</h2>
 
+[![Static Badge](https://img.shields.io/badge/LinkedIn-LinkedIn?style=for-the-badge&logo=LinkedIn&logoColor=white&color=blue&target="_blank")](https://www.linkedin.com/in/nicholasmatias/)
+
 <p>I am a rising sophomore at Texas A&M University, pursuing a Bachelor of Science in computer science. I love all things programming related and I am constantly trying to expand my knowledge. Additionally, I am a self-motivated learner looking to grow whether that be in a collaborative environment or solo. Lastly, I aspire to be a software engineer that makes a positive impact on the world through innovative solutions.</p>
 
-<div align = "left">
 
-<a href="https://www.linkedin.com/in/nicholasmatias" target="_blank" title="Nicholas Matias' LinkedIn" rel="noreferrer noopener"><i class="fa-brands fa-linkedin"></i></a>
 <a href="https://github.com/NicholasMatias" target="_blank" title="Nicholas Matias' GitHub" rel="noreferrer noopener"><i class="fa-brands fa-github" ></i></a>
 <a href="https://www.instagram.com/nicholasrmatias" target="_blank" title="Nicholas Matias' Instagram" rel="noreferrer noopener"><i class="fa-brands fa-instagram"></i></a>
                         
-
-</div>
 
 
 ---
@@ -22,6 +20,4 @@
 
 
 </div>
-
-
 
