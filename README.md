@@ -1,7 +1,7 @@
 ### <h1 align = "left">Hi, I am Nicholas Matias👋</h1>
 <h2 align = "left">Aspiring Software Engineer</h2>
 
-<script src="https://kit.fontawesome.com/3775ce8ebb.js" crossorigin="anonymous"></script>
+<p>I am a rising sophomore at Texas A&M University, pursuing a Bachelor of Science in computer science. I love all things programming related and I am constantly trying to expand my knowledge. Additionally, I am a self-motivated learner looking to grow whether that be in a collaborative environment or solo. Lastly, I aspire to be a software engineer that makes a positive impact on the world through innovative solutions.</p>
 
 <div align = "left">
 
@@ -15,13 +15,12 @@
 
 ---
 
-### <h1 align = "left">:fire: My Stats :</h1>
+### <h1 align = "left">:fire: My Stats:</h1>
 <div align="left">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=NicholasMatias&theme=highcontrast)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasMatias&layout=compact&theme=vision-friendly-dark)](https://github.com/NicholasMatias/github-readme-stats)
 </div>
 
 
