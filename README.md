@@ -8,7 +8,7 @@
 
 
 
-<p>I am a rising sophomore at Texas A&M University, pursuing a Bachelor of Science in computer science. I love all things programming related and I am constantly trying to expand my knowledge. Additionally, I am a self-motivated learner looking to grow whether that be in a collaborative environment or solo. Lastly, I aspire to be a software engineer that makes a positive impact on the world through innovative solutions.</p>
+<p>I am a rising junior at Texas A&M University, class of 2026, pursuing a Bachelor of Science in computer science. I love all things programming related and I am constantly trying to expand my knowledge. Additionally, I am a self-motivated learner looking to grow whether that be in a collaborative environment or solo. Lastly, I aspire to be a software engineer that makes a positive impact on the world through innovative solutions.</p>
 
 
 <h2>Languages:</h2>
